@@ -1,1 +1,1 @@
-# Codeforces- This Repo contains practice problems form Codeforces
+# Codeforces- This Repo contains practice problems from Codeforces
